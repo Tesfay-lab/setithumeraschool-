@@ -1,0 +1,2 @@
+# setithumeraschool-
+Official school website
